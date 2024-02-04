@@ -1,7 +1,3 @@
-Certainly! A README file typically provides information about the project, its purpose, how to set it up, and any other relevant details. Here's a simple example for your project:
-
-**README.md:**
-```markdown
 # Course Enrollment System
 
 This is a simple command-line application for managing student enrollments in courses.
